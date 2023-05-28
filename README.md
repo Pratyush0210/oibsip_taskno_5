@@ -1,5 +1,5 @@
 # oibsip_taskno_5
-OASIS INFOBYTE Internship Task 5 contains one Tableau file.
+OASIS INFOBYTE Internship Task 5 contains one Python file.
 ## **ADVERTISING DATASET**
 Comparing different machine learning models based on cross-validation score and accuracy score is a common practice to assess their performance. If the Extra Tree Regressor model shows the highest accuracy and cross-validation score among the models you tested, it suggests that it performs well for your specific dataset and task.
 
